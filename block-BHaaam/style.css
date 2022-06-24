@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine
+}
+
+.btn {
+    background-color: red;
+}
+
+.heading {
+    ~background-color: red;
+    font-size: 54px;
+    color: white;
+}
+
+.page-header {
+    background-color: red
+}
+
+
+}
+.btn b {
+    background-color: gold;
+}
+.btn-primary {
+    background-color: yellow;
+}
